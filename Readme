@@ -1,0 +1,40 @@
+Q1) It does not work because it keeps append previous neighbors into the frontier -> frontier is never empty -> never stop
+Q2) I can solve my board with BFSSearcher but it expands a lot.
+Q3) It can solve some boards pretty quick with a lot of expansions but it stop solving when it reaches board carolina.blx
+Q4) It will expand as BFS Pruning
+
+Average Expansions:
+	A*: 					48875
+	BFS Multipath Pruning: 	160
+	A* Multipath Pruning:	106
+	Bidirectional:			89
+
+
+Program Description:
+	A*:
+		I use heuristic funtion as (Manhattan Distance of the further block position / 1.5) because on average, each step takes 1.5 blocks distance.
+		Then store the path to the current node with value as path.cost + heuristic of the to_node into the Frontier PQ.
+		Then just pop the top of the PQ and evaluate until the node is goal.
+
+	BFS Multipath Pruning:
+		It is the same as BFS but the key different is having a list of visited nodes and check if the popped node from frontier is in the list before evaluating.
+		If it is already in the list, skip and don't add it's neighbors in. 
+		Also, before adding any new neighbors to Frontier, check if that neighbor is already in the list. If not, add. Else do nothing.
+
+	A* Multipath Pruning:
+		I use heuristic funtion as (Manhattan Distance of the further block position / 1.5) because on average, each step takes 1.5 blocks distance.
+		I implement a list containing the cost of visited nodes to bookeep the visited nodes and the cost to reach it.
+		If the current node is not visited, then store the path to the current node with value as path.cost + heuristic of the to_node into the Frontier PQ.
+		Else if the cost of the current node is less than the cost of that node stored inside the list, update it in the list and store it into the PQ.
+		Then just pop the top of the PQ and evaluate until the node is goal.
+
+	Bidirectional:
+		I use BFS Multipath Pruning (BFS MP) starting from both start node and goal node. This means all the components in BFS Multipath Pruning get duplicated to support bookeeping in both ends.
+		Forward direction is the same as BFS MP, except that before adding a new path to frontier, check if the current node is visited from the goal (intersect).
+		If not, continue adding into forward Frontier. If it is, merge the path from start to the current node with the backtracked path from the goal to the current node.
+		For backward direction, I also do BFS MP from goal node but the action is reversed to maintain the integrity when merge.
+		Before adding a new path to frontier, check if the current node is visited from the start (intersect).
+		If not, continue adding into backward Frontier. If it is, merge the path from start to the current node with the backtracked path from the goal to the current node.
+
+Notes:
+	I'm not sure that if A* is taking too much expansion to detect no solution boards. As for board lee.blx, it return pretty fast but not so with the other 2.

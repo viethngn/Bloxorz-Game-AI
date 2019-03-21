@@ -1,0 +1,195 @@
+Loading board file boards/chris.blx
+774 paths have been expanded and 1028 paths remain in the frontier
+For board boards/chris.blx, A Star Search found solution with length 12 using 774 expansions
+75 paths have been expanded and 8 paths remain in the frontier
+For board boards/chris.blx, BFS Multipath Pruning Search found solution with length 12 using 75 expansions
+52 paths have been expanded and 13 paths remain in the frontier
+For board boards/chris.blx, A Star Multipath Pruning Search found solution with length 12 using 52 expansions
+For board boards/chris.blx, Bidirectional Search found solution with length 12 using 17 forward expansions and 16 backward expansions
+Loading board file boards/nishant.blx
+14 paths have been expanded and 19 paths remain in the frontier
+For board boards/nishant.blx, A Star Search found solution with length 5 using 14 expansions
+12 paths have been expanded and 4 paths remain in the frontier
+For board boards/nishant.blx, BFS Multipath Pruning Search found solution with length 5 using 12 expansions
+7 paths have been expanded and 4 paths remain in the frontier
+For board boards/nishant.blx, A Star Multipath Pruning Search found solution with length 5 using 7 expansions
+For board boards/nishant.blx, Bidirectional Search found solution with length 5 using 5 forward expansions and 4 backward expansions
+Loading board file boards/luke1.blx
+102 paths have been expanded and 92 paths remain in the frontier
+For board boards/luke1.blx, A Star Search found solution with length 10 using 102 expansions
+11 paths have been expanded and 0 paths remain in the frontier
+For board boards/luke1.blx, BFS Multipath Pruning Search found solution with length 10 using 11 expansions
+11 paths have been expanded and 0 paths remain in the frontier
+For board boards/luke1.blx, A Star Multipath Pruning Search found solution with length 10 using 11 expansions
+For board boards/luke1.blx, Bidirectional Search found solution with length 10 using 6 forward expansions and 5 backward expansions
+Loading board file boards/jennifer.blx
+68 paths have been expanded and 94 paths remain in the frontier
+For board boards/jennifer.blx, A Star Search found solution with length 10 using 68 expansions
+21 paths have been expanded and 5 paths remain in the frontier
+For board boards/jennifer.blx, BFS Multipath Pruning Search found solution with length 10 using 21 expansions
+16 paths have been expanded and 5 paths remain in the frontier
+For board boards/jennifer.blx, A Star Multipath Pruning Search found solution with length 10 using 16 expansions
+For board boards/jennifer.blx, Bidirectional Search found solution with length 10 using 8 forward expansions and 7 backward expansions
+Loading board file boards/christina.blx
+44833 paths have been expanded and 58504 paths remain in the frontier
+For board boards/christina.blx, A Star Search found solution with length 19 using 44833 expansions
+69 paths have been expanded and 8 paths remain in the frontier
+For board boards/christina.blx, BFS Multipath Pruning Search found solution with length 19 using 69 expansions
+69 paths have been expanded and 7 paths remain in the frontier
+For board boards/christina.blx, A Star Multipath Pruning Search found solution with length 19 using 69 expansions
+For board boards/christina.blx, Bidirectional Search found solution with length 19 using 41 forward expansions and 36 backward expansions
+Loading board file boards/luke2.blx
+9 paths have been expanded and 7 paths remain in the frontier
+For board boards/luke2.blx, A Star Search found solution with length 8 using 9 expansions
+9 paths have been expanded and 0 paths remain in the frontier
+For board boards/luke2.blx, BFS Multipath Pruning Search found solution with length 8 using 9 expansions
+9 paths have been expanded and 0 paths remain in the frontier
+For board boards/luke2.blx, A Star Multipath Pruning Search found solution with length 8 using 9 expansions
+For board boards/luke2.blx, Bidirectional Search found solution with length 8 using 5 forward expansions and 4 backward expansions
+Loading board file boards/rashif.blx
+20 paths have been expanded and 32 paths remain in the frontier
+For board boards/rashif.blx, A Star Search found solution with length 8 using 20 expansions
+37 paths have been expanded and 5 paths remain in the frontier
+For board boards/rashif.blx, BFS Multipath Pruning Search found solution with length 8 using 37 expansions
+14 paths have been expanded and 10 paths remain in the frontier
+For board boards/rashif.blx, A Star Multipath Pruning Search found solution with length 8 using 14 expansions
+For board boards/rashif.blx, Bidirectional Search found solution with length 8 using 13 forward expansions and 13 backward expansions
+Loading board file boards/andrew.blx
+58 paths have been expanded and 96 paths remain in the frontier
+For board boards/andrew.blx, A Star Search found solution with length 7 using 58 expansions
+36 paths have been expanded and 10 paths remain in the frontier
+For board boards/andrew.blx, BFS Multipath Pruning Search found solution with length 7 using 36 expansions
+17 paths have been expanded and 9 paths remain in the frontier
+For board boards/andrew.blx, A Star Multipath Pruning Search found solution with length 7 using 17 expansions
+For board boards/andrew.blx, Bidirectional Search found solution with length 7 using 9 forward expansions and 8 backward expansions
+Loading board file boards/ryan.blx
+350860 paths have been expanded and 349886 paths remain in the frontier
+For board boards/ryan.blx, A Star Search found solution with length 24 using 350860 expansions
+63 paths have been expanded and 8 paths remain in the frontier
+For board boards/ryan.blx, BFS Multipath Pruning Search found solution with length 24 using 63 expansions
+47 paths have been expanded and 11 paths remain in the frontier
+For board boards/ryan.blx, A Star Multipath Pruning Search found solution with length 24 using 47 expansions
+For board boards/ryan.blx, Bidirectional Search found solution with length 24 using 24 forward expansions and 23 backward expansions
+Loading board file boards/jesus.blx
+5 paths have been expanded and 8 paths remain in the frontier
+For board boards/jesus.blx, A Star Search found solution with length 4 using 5 expansions
+18 paths have been expanded and 15 paths remain in the frontier
+For board boards/jesus.blx, BFS Multipath Pruning Search found solution with length 4 using 18 expansions
+5 paths have been expanded and 5 paths remain in the frontier
+For board boards/jesus.blx, A Star Multipath Pruning Search found solution with length 4 using 5 expansions
+For board boards/jesus.blx, Bidirectional Search found solution with length 4 using 4 forward expansions and 3 backward expansions
+Loading board file boards/faustina.blx
+32 paths have been expanded and 61 paths remain in the frontier
+For board boards/faustina.blx, A Star Search found solution with length 6 using 32 expansions
+38 paths have been expanded and 15 paths remain in the frontier
+For board boards/faustina.blx, BFS Multipath Pruning Search found solution with length 6 using 38 expansions
+24 paths have been expanded and 15 paths remain in the frontier
+For board boards/faustina.blx, A Star Multipath Pruning Search found solution with length 6 using 24 expansions
+For board boards/faustina.blx, Bidirectional Search found solution with length 6 using 7 forward expansions and 6 backward expansions
+Loading board file boards/charlieN.blx
+57 paths have been expanded and 62 paths remain in the frontier
+For board boards/charlieN.blx, A Star Search found solution with length 8 using 57 expansions
+15 paths have been expanded and 1 paths remain in the frontier
+For board boards/charlieN.blx, BFS Multipath Pruning Search found solution with length 8 using 15 expansions
+13 paths have been expanded and 2 paths remain in the frontier
+For board boards/charlieN.blx, A Star Multipath Pruning Search found solution with length 8 using 13 expansions
+For board boards/charlieN.blx, Bidirectional Search found solution with length 8 using 9 forward expansions and 8 backward expansions
+Loading board file boards/breanna.blx
+53 paths have been expanded and 51 paths remain in the frontier
+For board boards/breanna.blx, A Star Search found solution with length 6 using 53 expansions
+12 paths have been expanded and 0 paths remain in the frontier
+For board boards/breanna.blx, BFS Multipath Pruning Search found solution with length 6 using 12 expansions
+12 paths have been expanded and 0 paths remain in the frontier
+For board boards/breanna.blx, A Star Multipath Pruning Search found solution with length 6 using 12 expansions
+For board boards/breanna.blx, Bidirectional Search found solution with length 6 using 5 forward expansions and 5 backward expansions
+Loading board file boards/zack.blx
+10 paths have been expanded and 10 paths remain in the frontier
+For board boards/zack.blx, A Star Search found solution with length 9 using 10 expansions
+24 paths have been expanded and 5 paths remain in the frontier
+For board boards/zack.blx, BFS Multipath Pruning Search found solution with length 9 using 24 expansions
+10 paths have been expanded and 2 paths remain in the frontier
+For board boards/zack.blx, A Star Multipath Pruning Search found solution with length 9 using 10 expansions
+For board boards/zack.blx, Bidirectional Search found solution with length 9 using 7 forward expansions and 6 backward expansions
+Loading board file boards/jake.blx
+145 paths have been expanded and 201 paths remain in the frontier
+For board boards/jake.blx, A Star Search found solution with length 8 using 145 expansions
+53 paths have been expanded and 4 paths remain in the frontier
+For board boards/jake.blx, BFS Multipath Pruning Search found solution with length 8 using 53 expansions
+30 paths have been expanded and 8 paths remain in the frontier
+For board boards/jake.blx, A Star Multipath Pruning Search found solution with length 8 using 30 expansions
+For board boards/jake.blx, Bidirectional Search found solution with length 8 using 10 forward expansions and 10 backward expansions
+Loading board file boards/charliePW.blx
+77 paths have been expanded and 131 paths remain in the frontier
+For board boards/charliePW.blx, A Star Search found solution with length 6 using 77 expansions
+36 paths have been expanded and 14 paths remain in the frontier
+For board boards/charliePW.blx, BFS Multipath Pruning Search found solution with length 6 using 36 expansions
+21 paths have been expanded and 10 paths remain in the frontier
+For board boards/charliePW.blx, A Star Multipath Pruning Search found solution with length 6 using 21 expansions
+For board boards/charliePW.blx, Bidirectional Search found solution with length 6 using 11 forward expansions and 10 backward expansions
+Loading board file boards/geva.blx
+7 paths have been expanded and 11 paths remain in the frontier
+For board boards/geva.blx, A Star Search found solution with length 5 using 7 expansions
+30 paths have been expanded and 18 paths remain in the frontier
+For board boards/geva.blx, BFS Multipath Pruning Search found solution with length 5 using 30 expansions
+7 paths have been expanded and 6 paths remain in the frontier
+For board boards/geva.blx, A Star Multipath Pruning Search found solution with length 5 using 7 expansions
+For board boards/geva.blx, Bidirectional Search found solution with length 5 using 4 forward expansions and 3 backward expansions
+Loading board file boards/tiara.blx
+5 paths have been expanded and 7 paths remain in the frontier
+For board boards/tiara.blx, A Star Search found solution with length 4 using 5 expansions
+16 paths have been expanded and 7 paths remain in the frontier
+For board boards/tiara.blx, BFS Multipath Pruning Search found solution with length 4 using 16 expansions
+5 paths have been expanded and 4 paths remain in the frontier
+For board boards/tiara.blx, A Star Multipath Pruning Search found solution with length 4 using 5 expansions
+For board boards/tiara.blx, Bidirectional Search found solution with length 4 using 4 forward expansions and 4 backward expansions
+Loading board file boards/jakeAH.blx
+187 paths have been expanded and 208 paths remain in the frontier
+For board boards/jakeAH.blx, A Star Search found solution with length 10 using 187 expansions
+31 paths have been expanded and 2 paths remain in the frontier
+For board boards/jakeAH.blx, BFS Multipath Pruning Search found solution with length 10 using 31 expansions
+20 paths have been expanded and 3 paths remain in the frontier
+For board boards/jakeAH.blx, A Star Multipath Pruning Search found solution with length 10 using 20 expansions
+For board boards/jakeAH.blx, Bidirectional Search found solution with length 10 using 11 forward expansions and 11 backward expansions
+Loading board file boards/duncan.blx
+140 paths have been expanded and 176 paths remain in the frontier
+For board boards/duncan.blx, A Star Search found solution with length 14 using 140 expansions
+83 paths have been expanded and 17 paths remain in the frontier
+For board boards/duncan.blx, BFS Multipath Pruning Search found solution with length 14 using 83 expansions
+34 paths have been expanded and 18 paths remain in the frontier
+For board boards/duncan.blx, A Star Multipath Pruning Search found solution with length 14 using 34 expansions
+For board boards/duncan.blx, Bidirectional Search found solution with length 14 using 22 forward expansions and 20 backward expansions
+Loading board file boards/carolina.blx
+412 paths have been expanded and 754 paths remain in the frontier
+For board boards/carolina.blx, A Star Search found solution with length 11 using 412 expansions
+148 paths have been expanded and 2 paths remain in the frontier
+For board boards/carolina.blx, BFS Multipath Pruning Search found solution with length 11 using 148 expansions
+68 paths have been expanded and 40 paths remain in the frontier
+For board boards/carolina.blx, A Star Multipath Pruning Search found solution with length 11 using 68 expansions
+For board boards/carolina.blx, Bidirectional Search found solution with length 11 using 21 forward expansions and 20 backward expansions
+Loading board file boards/simple.blx
+3 paths have been expanded and 1 paths remain in the frontier
+For board boards/simple.blx, A Star Search found solution with length 2 using 3 expansions
+3 paths have been expanded and 0 paths remain in the frontier
+For board boards/simple.blx, BFS Multipath Pruning Search found solution with length 2 using 3 expansions
+3 paths have been expanded and 0 paths remain in the frontier
+For board boards/simple.blx, A Star Multipath Pruning Search found solution with length 2 using 3 expansions
+For board boards/simple.blx, Bidirectional Search found solution with length 2 using 2 forward expansions and 1 backward expansions
+Loading board file boards/samantha.blx
+46 paths have been expanded and 66 paths remain in the frontier
+For board boards/samantha.blx, A Star Search found solution with length 5 using 46 expansions
+25 paths have been expanded and 9 paths remain in the frontier
+For board boards/samantha.blx, BFS Multipath Pruning Search found solution with length 5 using 25 expansions
+16 paths have been expanded and 6 paths remain in the frontier
+For board boards/samantha.blx, A Star Multipath Pruning Search found solution with length 5 using 16 expansions
+For board boards/samantha.blx, Bidirectional Search found solution with length 5 using 8 forward expansions and 7 backward expansions
+Loading board file boards/viet.blx
+322 paths have been expanded and 657 paths remain in the frontier
+For board boards/viet.blx, A Star Search found solution with length 9 using 322 expansions
+143 paths have been expanded and 23 paths remain in the frontier
+For board boards/viet.blx, BFS Multipath Pruning Search found solution with length 9 using 143 expansions
+53 paths have been expanded and 29 paths remain in the frontier
+For board boards/viet.blx, A Star Multipath Pruning Search found solution with length 9 using 53 expansions
+For board boards/viet.blx, Bidirectional Search found solution with length 9 using 18 forward expansions and 17 backward expansions
+48874.78477933744 159.59206863528775 106.24952148571579 88.83365070508528
+
+
